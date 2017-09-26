@@ -9,7 +9,7 @@ composer require ashop/admin
 
 Once this operation is complete, simply add the service provider class to your project's `config/app.php` file:
 
-#### Service Provider
+## Service Provider
 
 ```
 Ashop\Admin\AshopAdminServiceProvider::class,
